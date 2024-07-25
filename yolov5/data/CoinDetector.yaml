@@ -1,0 +1,15 @@
+# Coin Detector YAML configuration file for YOLOv5 model
+# Composed by Ziv Attias
+
+path: /Users/zivattias/Desktop/coin-detector-v2/datasets/coin_detector
+
+train: images/train # train images (relative to 'path')
+val: images/val # validation images (relative to 'path')
+test: images/test # test images (optional)
+
+# Coin classes
+names:
+  0: 1 Shekel Coin
+  1: 10 Shekel Coin
+  2: 2 Shekel Coin
+  3: 5 Shekel Coin
