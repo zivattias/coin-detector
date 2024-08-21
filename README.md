@@ -65,6 +65,8 @@ pipenv shell
   
 ```sh
 python modules/sum.py
+OR
+python -m modules.sum 
 ```
 * Example valid output:
 ```
