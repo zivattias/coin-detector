@@ -1,4 +1,4 @@
-# Coin Detector Project by Ziv Attias
+# AI Coin Detector Project by Ziv Attias
 
 ## Overview
 
